@@ -1,0 +1,9 @@
+name: pokezero
+dependencies:
+  - python=3.6
+  - numpy
+  - pip
+  - pytorch
+  - notebook
+  - scikit-learn
+  - pytorch-lightning
